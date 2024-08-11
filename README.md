@@ -74,6 +74,10 @@ text(app.UIAxes, xcenter, angle_deg, ['  ∠ to X-axis: ', num2str(angle_deg_rou
 ## Screenshot
 
 ![Working app](https://github.com/user-attachments/assets/955b8995-8763-407c-9f76-68d3fbddeab6)
+
+
+The below image showcases two Mohr’s Circles overlaid for comparative analysis. The app allows users to draw and compare multiple Mohr’s Circles, facilitating the visualization of different stress states. Users can also reset the circles to start new comparisons easily.
+
 ![Working app 2](https://github.com/user-attachments/assets/104ac8c2-7164-4b79-853b-c97b597a52c4)
 
 
