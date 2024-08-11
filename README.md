@@ -84,4 +84,4 @@ The below image showcases two Mohr’s Circles overlaid for comparative analysis
 
 ## License
 
-This project is licensed under the Professional License Agreement. See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the License Agreement. See the [LICENSE.md](LICENSE.md) file for details.
